@@ -1,4 +1,12 @@
-# CompareAngular
+# Angular 5 Demo
+  - Installing Angular 5
+  - Components 101
+  - Templating & Styling with HTML & CSS
+  - Property & Event Binding
+  - Animation
+  - Services
+  - Router
+  - Deployment
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
 
